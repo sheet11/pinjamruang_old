@@ -1,0 +1,50 @@
+Searching 52 files for "diponegoro"
+
+C:\xampp\htdocs\pinjamruang\admin_fasilitas.php:
+  130          <h2>Edit Fasilitas Ruangan</h2><br>
+  131          <h3>Sekolah Pasca Sarjana</h3>
+  132:         <h3>Universitas Diponegoro</h3><br><br>
+  133      </div>
+  134      <div class="col-sm-2">
+
+C:\xampp\htdocs\pinjamruang\admin_menu.php:
+   57  	<h2>Menu Admin Peminjaman Ruangan</h2><br>
+   58  	<h3>Sekolah Pasca Sarjana</h3>
+   59:   <h3>Universitas Diponegoro</h3><br><br>
+   60  
+   61    <a href="admin_fasilitas.php" class="btn btn-lg"><span class="badge"></span><br><span class="glyphicon glyphicon-tower"></span><br>Fasilitas</a>
+
+C:\xampp\htdocs\pinjamruang\index.php:
+  117  	<h2>Halaman Utama Peminjaman Ruangan</h2><br>
+  118  	<h3>Sekolah Pasca Sarjana</h3>
+  119:   <h3>Universitas Diponegoro</h3><br><br>
+  120  
+  121    <a href="./user_jadwal.php" class="btn btn-lg"><span class="glyphicon glyphicon-calendar"></span><br>Kalender</a>
+
+C:\xampp\htdocs\pinjamruang\login.php:
+   42          <h2>Login Admin Peminjaman Ruangan</h2><br>
+   43          <h3>Sekolah Pasca Sarjana</h3>
+   44:         <h3>Universitas Diponegoro</h3><br><br>
+   45      </div>
+   46      <div class="col-sm-2">
+
+C:\xampp\htdocs\pinjamruang\user_peminjaman.php:
+   73          <h2>Pengajuan Peminjaman Ruangan</h2><br>
+   74          <h3>Sekolah Pasca Sarjana</h3>
+   75:         <h3>Universitas Diponegoro</h3><br><br><br><br>
+   76      </div>
+   77      <div class="col-sm-2">
+
+C:\xampp\htdocs\pinjamruang\user_peminjaman_ruangan.php:
+   64          <h2>Form Pengajuan Peminjaman Ruangan</h2><br>
+   65          <h3>Sekolah Pasca Sarjana</h3>
+   66:         <h3>Universitas Diponegoro</h3><br><br>
+   67      </div>
+   68      <div class="col-sm-2">
+
+6 matches across 6 files
+
+
+Searching 52 files for "Diponegoro"
+
+0 matches
